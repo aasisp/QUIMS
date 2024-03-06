@@ -109,3 +109,10 @@ const greet = () => {
     }
 }
 greet();
+
+const getPreloader = document.getElementById("preloader");
+const handlePreloader = () => {
+    getPreloader.style.display = "none";
+}
+
+setTimeout(handlePreloader, 3000);
