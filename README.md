@@ -1,2 +1,2 @@
-<h1>Login Page design for IMS(Information Management System) for Universities/Colleges.</h1><br>
+#Login page for ERP Web app.
 URL: https://aasisp.github.io/QUIMS
